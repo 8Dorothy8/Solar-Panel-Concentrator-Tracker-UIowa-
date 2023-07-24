@@ -1,0 +1,107 @@
+# obj2rad -m absfile absorbbox.obj
+# File units = meters
+
+# Reflectance: rho=0
+void plastic darknessness
+0
+0
+5  0 0 0  0 0
+
+darknessness polygon mesh0.1
+0
+0
+9
+              10.1              10.1             -10.1
+              10.1              10.1                  0
+              10.1             -10.1                  0
+
+darknessness polygon mesh0.2
+0
+0
+9
+              10.1             -10.1                  0
+              10.1             -10.1             -10.1
+              10.1              10.1             -10.1
+
+darknessness polygon mesh1.3
+0
+0
+9
+              10.1             -10.1             -10.1
+              10.1             -10.1                  0
+             -10.1             -10.1                  0
+
+darknessness polygon mesh1.4
+0
+0
+9
+             -10.1             -10.1                  0
+             -10.1             -10.1             -10.1
+              10.1             -10.1             -10.1
+
+darknessness polygon mesh2.5
+0
+0
+9
+             -10.1             -10.1             -10.1
+             -10.1             -10.1                  0
+             -10.1              10.1                  0
+
+darknessness polygon mesh2.6
+0
+0
+9
+             -10.1              10.1                  0
+             -10.1              10.1             -10.1
+             -10.1             -10.1             -10.1
+
+darknessness polygon mesh3.7
+0
+0
+9
+             -10.1              10.1             -10.1
+             -10.1              10.1                  0
+              10.1              10.1                  0
+
+darknessness polygon mesh3.8
+0
+0
+9
+              10.1              10.1                  0
+              10.1              10.1             -10.1
+             -10.1              10.1             -10.1
+
+darknessness polygon mesh4.9
+0
+0
+9
+             -10.1              10.1             -10.1
+              10.1              10.1             -10.1
+              10.1             -10.1             -10.1
+
+darknessness polygon mesh4.10.1
+0
+0
+9
+              10.1             -10.1             -10.1
+             -10.1             -10.1             -10.1
+             -10.1              10.1             -10.1
+
+darknessness polygon mesh5.11
+0
+0
+9
+             -10.1             -10.1                  0
+              10.1             -10.1                  0
+              10.1              10.1                  0
+
+darknessness polygon mesh5.12
+0
+0
+9
+              10.1              10.1                  0
+             -10.1              10.1                  0
+             -10.1             -10.1                  0
+
+# Done processing file: absorbbox.obj
+# 36 lines, 36 statements, 1 unrecognized
